@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import java.util.HashMap;
 import java.util.Map;
 
-public class CurrencyConverterGUI {
+public class CurrencyConverterwithGUI {
     
     // Method to simulate fetching exchange rates from an API
     private static Map<String, Double> getExchangeRates() {
